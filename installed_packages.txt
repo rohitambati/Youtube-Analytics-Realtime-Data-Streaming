@@ -1,0 +1,12 @@
+Package            Version
+------------------ --------
+python             3.12.3
+certifi            2024.2.2
+charset-normalizer 3.3.2
+configparser       7.0.0
+idna               3.7
+kafka-python       2.0.2
+pip                23.2.1
+requests           2.32.2
+six                1.16.0
+urllib3            2.2.1
